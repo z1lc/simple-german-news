@@ -304,8 +304,38 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-h3.sitetitle {
+h1.sitetitle {
+    font-size: 20px;
     font-family: Righteous;
+    margin: 0;
+}
+@media (min-width:350px) {
+    h1.sitetitle {
+        font-size: 24px;
+    }
+}
+@media (min-width:500px) {
+    h1.sitetitle {
+        font-size: 36px;
+    }
+}
+
+
+span.navbar-toggler-icon {
+    height: 15px;
+    width: 15px;
+}
+@media (min-width:350px) {
+    span.navbar-toggler-icon {
+        height: 20px;
+        width: 20px;
+    }
+}
+@media (min-width:500px) {
+    span.navbar-toggler-icon {
+        height: 30px;
+        width: 30px;
+    }
 }
 
 .mainheading h1.posttitle {
