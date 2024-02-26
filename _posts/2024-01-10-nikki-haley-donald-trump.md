@@ -2,7 +2,7 @@
 layout: post
 title:  "Nikki Haley, Donald Trumps größte Gegnerin?"
 categories: [ politics, Donald Trump, Nikki Haley ]
-description: "??"
+description: ""
 image: "assets/images/haley.png"
 ---
 
